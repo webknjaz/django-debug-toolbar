@@ -10,6 +10,10 @@ Django Debug Toolbar
      :target: https://requires.io/github/django-debug-toolbar/django-debug-toolbar/requirements/?branch=master
      :alt: Requirements Status
 
+.. image:: https://api.codacy.com/project/badge/Grade/23bb6de579d743668e9d9fd1ea6bb012
+     :target: https://www.codacy.com/app/webknjaz/django-debug-toolbar?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=django-debug-toolbar/django-debug-toolbar&amp;utm_campaign=Badge_Grade
+     :alt: Codacy Badge
+
 The Django Debug Toolbar is a configurable set of panels that display various
 debug information about the current request/response and when clicked, display
 more details about the panel's content.
